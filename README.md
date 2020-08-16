@@ -3,6 +3,7 @@
 ## Question
 
 100 prisoners are going to be executed, but there is a chance to survive.
+
 The king asks them to count off, it means the first prisoner report 1, the second report 2, and keep going until the last report 100.
 Once the prisoner reports an **odd number**, then sadly he would be executed immediately.
 
