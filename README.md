@@ -101,8 +101,6 @@ Last Survived: 64
 
 --------- Binary --------- 
 
-Last Survived: 1000000
-
 Death Order:
 ['0000001',
  '0000011',
@@ -204,3 +202,5 @@ Death Order:
  '0100000',
  '1100000']
 
+
+Last Survived: 1000000
